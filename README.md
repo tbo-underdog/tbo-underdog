@@ -1,1 +1,1 @@
-Hello, I'm Craig Milliron (TBOUnderdog) I am currently a Software Engineer at Dealerware, and have had the privalege to work at top engineering firms during my career (Meta, Amazon and Starbucks). I love software and the technologies and have finally started using this GIThub to actually track puzzles I solve and personal projects.
+Hello, I'm Craig Milliron (TBOUnderdog) I am currently a Software Engineer at Dealerware, and have had the privalege to work at top engineering firms during my career (Meta, and Starbucks). 
